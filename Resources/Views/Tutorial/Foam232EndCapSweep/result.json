@@ -1,0 +1,63 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "foam232.L_overall" ],
+    "colors" : {
+      "foam232.L_overall" : [ "#8c564b" ]
+    },
+    "independentVariable" : "s_ratio",
+    "x" : -93.45028,
+    "y" : 6.0642724,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Overall tank length"
+  }, {
+    "variables" : [ "foam232.eff" ],
+    "colors" : {
+      "foam232.eff" : [ "#e377c2" ]
+    },
+    "independentVariable" : "s_ratio",
+    "x" : -9.458536,
+    "y" : 5.4156876,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Gravimetric efficiency"
+  }, {
+    "variables" : [ "foam232.cryogenicH2TankSummary.Q_flow" ],
+    "colors" : {
+      "foam232.cryogenicH2TankSummary.Q_flow" : [ "#aec7e8" ]
+    },
+    "independentVariable" : "s_ratio",
+    "x" : -9.621237,
+    "y" : -44.84601,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Q_flow"
+  }, {
+    "variables" : [ "foam232.layer1.thickness" ],
+    "colors" : {
+      "foam232.layer1.thickness" : [ "#ff9896" ]
+    },
+    "independentVariable" : "s_ratio",
+    "x" : -100.156685,
+    "y" : -102.11085,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Tank layer 1 thickness"
+  }, {
+    "variables" : [ "foam232.r_inner", "foam232.r_outer" ],
+    "colors" : {
+      "foam232.r_inner" : [ "#7f7f7f" ],
+      "foam232.r_outer" : [ "#bcbd22" ]
+    },
+    "independentVariable" : "s_ratio",
+    "x" : -100.424225,
+    "y" : -52.785965,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Tank Inner and outer radius"
+  } ],
+  "version" : "1",
+  "name" : "Result"
+}

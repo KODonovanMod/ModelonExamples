@@ -1,6 +1,6 @@
 {
   "version" : "2",
-  "id" : "83815dcd-467c-4dfb-8a24-8c653ca8ee5a",
+  "id" : "74d38001-00fc-4620-af2c-b430eca7ec0b",
   "experiment" : {
     "base" : {
       "analysis" : {
@@ -17,7 +17,9 @@
             "dynamic_diagnostics" : false,
             "ncp" : 500
           },
-          "solverOptions" : { },
+          "solverOptions" : {
+            "store_event_points" : true
+          },
           "compilerOptions" : {
             "c_compiler" : "gcc",
             "generate_html_diagnostics" : false,
@@ -51,17 +53,31 @@
             "variability_propagation" : true
           },
           "runtimeOptions" : { }
-        } ]
+        } ],
+        "expansion" : {
+          "discreteAlgorithm" : {
+            "noOfSamples" : 0,
+            "seed" : 0
+          },
+          "continuousAlgorithm" : {
+            "type" : "SOBOL",
+            "noOfSamples" : 10,
+            "seed" : 0
+          }
+        }
       },
       "modifiers" : {
         "initializeFrom" : "",
-        "variables" : [ ]
+        "variables" : [ {
+          "name" : "s_ratio",
+          "expression" : "range(0.2,2,10)"
+        } ]
       }
     }
   },
   "metadata" : {
-    "created" : "2023-08-07 05:37:07.894387354",
-    "lastModified" : "2024-07-31T09:16:16.249853804Z",
-    "name" : "Experiment 1"
+    "created" : "2024-07-31 09:53:33.740199594",
+    "lastModified" : "2024-07-31T10:06:52.640704823Z",
+    "name" : "SteadyStateSweep"
   }
 }
