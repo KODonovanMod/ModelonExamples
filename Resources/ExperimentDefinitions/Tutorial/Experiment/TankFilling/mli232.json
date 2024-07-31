@@ -41,14 +41,8 @@
           "name" : "L_total",
           "expression" : "13.6"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0021"
-        }, {
           "name" : "t_insulation",
           "expression" : "0.127"
-        }, {
-          "name" : "t_protection",
-          "expression" : "0.0266"
         }, {
           "name" : "k_insulation",
           "expression" : "0.00015"
@@ -61,13 +55,19 @@
         }, {
           "name" : "fill_rate",
           "expression" : "2"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0018"
+        }, {
+          "name" : "t_protection",
+          "expression" : "0.0265"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 08:44:44.830913792",
-    "lastModified" : "2023-08-10T08:48:01.526330198Z",
+    "lastModified" : "2024-07-31T14:02:16.709890307Z",
     "name" : "MLI232"
   }
 }

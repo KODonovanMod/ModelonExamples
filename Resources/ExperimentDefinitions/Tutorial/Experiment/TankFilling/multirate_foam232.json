@@ -41,12 +41,6 @@
           "name" : "L_total",
           "expression" : "17.2"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0041"
-        }, {
-          "name" : "t_insulation",
-          "expression" : "0.1289"
-        }, {
           "name" : "t_protection",
           "expression" : "0.0008"
         }, {
@@ -61,13 +55,19 @@
         }, {
           "name" : "fill_rate",
           "expression" : "choices(2,5,10,20)"
+        }, {
+          "name" : "t_insulation",
+          "expression" : "0.1168"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0034"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 12:01:00.906282655",
-    "lastModified" : "2023-08-10T12:12:13.709906258Z",
+    "lastModified" : "2024-07-31T14:04:26.530688859Z",
     "name" : "MultiRate_Foam232"
   }
 }
