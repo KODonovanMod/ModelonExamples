@@ -1,0 +1,17 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "liquidFlowRateTable.y[1]" ],
+    "colors" : {
+      "liquidFlowRateTable.y[1]" : [ "#ffbb78" ]
+    },
+    "x" : -194.66907,
+    "y" : -31.16336,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Fuel Extraction Rate"
+  } ],
+  "version" : "1",
+  "name" : "fuel extraction rate"
+}

@@ -1,0 +1,17 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "altitudeTable.y[1]" ],
+    "colors" : {
+      "altitudeTable.y[1]" : [ "#aec7e8" ]
+    },
+    "x" : -72.78924,
+    "y" : -41.29779,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Altitude"
+  } ],
+  "version" : "1",
+  "name" : "altitude"
+}

@@ -1,0 +1,11 @@
+{
+  "stickies" : [ "mli232.V_inner", "mli232.L_overall", "mli232.L", "mli232.layer1.thickness", "mli232.layer2.thickness", "mli232.layer3.thickness" ],
+  "stickyPositions" : [ {
+    "component" : "mli232",
+    "x" : 6.6412697,
+    "y" : 47.710052
+  } ],
+  "plots" : [ ],
+  "version" : "1",
+  "name" : "Result"
+}

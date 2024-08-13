@@ -1,0 +1,18 @@
+{
+  "stickies" : [ ],
+  "stickyPositions" : [ ],
+  "plots" : [ {
+    "variables" : [ "storageTank.M_vap", "storageTank.M_liq" ],
+    "colors" : {
+      "storageTank.M_vap" : [ "#ff7f0e" ],
+      "storageTank.M_liq" : [ "#2ca02c" ]
+    },
+    "x" : -45.86815,
+    "y" : -112.94956,
+    "width" : 500.0,
+    "height" : 300.0,
+    "title" : "Tank Masses"
+  } ],
+  "version" : "1",
+  "name" : "total mass"
+}
