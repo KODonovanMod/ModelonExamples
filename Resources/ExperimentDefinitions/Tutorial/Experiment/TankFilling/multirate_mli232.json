@@ -56,18 +56,18 @@
           "name" : "fill_rate",
           "expression" : "choices(2,5,10,20)"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0018"
-        }, {
           "name" : "t_protection",
           "expression" : "0.0265"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0033"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 12:09:34.875801861",
-    "lastModified" : "2024-07-31T14:03:53.378089628Z",
+    "lastModified" : "2024-08-13T11:57:09.976964975Z",
     "name" : "MultiRate_MLI232"
   }
 }

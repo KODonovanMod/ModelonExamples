@@ -7,12 +7,12 @@
       "storageTank.T_liq" : [ "#8c564b" ],
       "storageTank.T_vap" : [ "#e377c2" ]
     },
-    "x" : -73.511856,
-    "y" : 9.852702,
+    "x" : -85.02187,
+    "y" : -50.504692,
     "width" : 500.0,
     "height" : 300.0,
-    "title" : "Plot 2"
+    "title" : "Tank Temperatures"
   } ],
   "version" : "1",
-  "name" : "total temperature"
+  "name" : "total temperatures"
 }

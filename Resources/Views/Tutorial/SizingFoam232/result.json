@@ -1,0 +1,7 @@
+{
+  "stickies" : [ "foam232.cryogenicH2TankSummary.V_inner", "foam232.cryogenicH2TankSummary.L_overall", "foam232.cryogenicH2TankSummary.L", "foam232.layer1.thickness", "foam232.layer2.thickness", "foam232.layer3.thickness" ],
+  "stickyPositions" : [ ],
+  "plots" : [ ],
+  "version" : "1",
+  "name" : "Result"
+}

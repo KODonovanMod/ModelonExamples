@@ -53,21 +53,21 @@
           "name" : "fill_rate",
           "expression" : "2"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0034"
-        }, {
-          "name" : "t_insulation",
-          "expression" : "0.1168"
-        }, {
           "name" : "L_total",
           "expression" : "17.0"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0048"
+        }, {
+          "name" : "t_insulation",
+          "expression" : "0.117"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 07:36:28.53510004",
-    "lastModified" : "2024-07-31T13:59:34.641328975Z",
+    "lastModified" : "2024-08-13T11:48:50.636961657Z",
     "name" : "Foam232"
   }
 }

@@ -41,27 +41,27 @@
           "name" : "L_total",
           "expression" : "13.6"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0021"
-        }, {
           "name" : "t_insulation",
           "expression" : "0.127"
-        }, {
-          "name" : "t_protection",
-          "expression" : "0.0266"
         }, {
           "name" : "k_insulation",
           "expression" : "0.00015"
         }, {
           "name" : "massHydAvail",
           "expression" : "10220"
+        }, {
+          "name" : "t_protection",
+          "expression" : "0.0265"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0033"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 08:44:44.830913792",
-    "lastModified" : "2023-08-10T13:06:28.253522651Z",
+    "lastModified" : "2024-08-13T11:59:37.602644647Z",
     "name" : "MLI232"
   }
 }

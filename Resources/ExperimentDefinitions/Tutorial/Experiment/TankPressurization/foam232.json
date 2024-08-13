@@ -41,12 +41,6 @@
           "name" : "L_total",
           "expression" : "17.2"
         }, {
-          "name" : "t_vessel",
-          "expression" : "0.0041"
-        }, {
-          "name" : "t_insulation",
-          "expression" : "0.1289"
-        }, {
           "name" : "t_protection",
           "expression" : "0.0008"
         }, {
@@ -55,13 +49,19 @@
         }, {
           "name" : "massHydAvail",
           "expression" : "13620"
+        }, {
+          "name" : "t_vessel",
+          "expression" : "0.0048"
+        }, {
+          "name" : "t_insulation",
+          "expression" : "0.117"
         } ]
       }
     }
   },
   "metadata" : {
     "created" : "2023-08-10 07:36:28.53510004",
-    "lastModified" : "2023-08-10T13:06:12.377675319Z",
+    "lastModified" : "2024-08-13T11:59:24.727776229Z",
     "name" : "Foam232"
   }
 }
